@@ -1,0 +1,727 @@
+﻿#EXTM3U
+#EXTINF:-1,•●★★--- صلوا على النبى ---★★●•
+https://e.top4top.io/m_2939xo8cm1.mp4
+#EXTINF:0 CUID="141" tvg-name="https://t.me/techgitt قناتنا على التلجرام " tvg-logo="https://j.top4top.io/p_2805lxgyw1.jpg" group-title="FR | FRANCE GENERAL",https://t.me/techgitt قناتنا على التلجرام 
+https://e.top4top.io/m_2939xo8cm1.mp4
+#EXTINF:0 CUID="141" tvg-name=" TECH GIT لدخول للموقع ابحث في جوجل عن" tvg-logo="https://j.top4top.io/p_2805lxgyw1.jpg" group-title="FR | FRANCE GENERAL", TECH GIT لدخول للموقع ابحث في جوجل عن
+https://e.top4top.io/m_2939xo8cm1.mp4
+
+
+#EXTINF:-1,•●★★-- بوابة التكنولوجيا امم افريقيا---★★●•
+http://nvpro.tv:80/808080/909090/97072
+#EXTINF:-1,⚽️موقع بوابة التكنولوجيا⚽️ AFCON 1 LOW
+http://nvpro.tv:80/808080/909090/97072
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ AFCON 2 LOW
+http://nvpro.tv:80/808080/909090/97071
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ ASIAN CUP 1 LOW
+http://nvpro.tv:80/808080/909090/97070
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ ASIAN CUP 2 LOW
+http://nvpro.tv:80/808080/909090/97069
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ AFCON 1 SD
+http://nvpro.tv:80/808080/909090/97076
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ AFCON 2 SD
+http://nvpro.tv:80/808080/909090/97075
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ ASIAN CUP 1 SD
+http://nvpro.tv:80/808080/909090/97074
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ ASIAN CUP 2 SD
+http://nvpro.tv:80/808080/909090/97073
+
+#EXTINF:-1,بوابة التكنولوجيا  امم افريقيا
+http://nvpro.tv:80/808080/909090/33791
+#EXTINF:-1,بوابة التكنولوجيا  امم افريقيا
+http://nvpro.tv:80/808080/909090/33790
+#EXTINF:-1,بوابة التكنولوجيا  امم افريقيا
+http://nvpro.tv:80/808080/909090/33789
+
+
+
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ AFCON 1 NANO
+http://nvpro.tv:80/808080/909090/97080
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ AFCON 2 NANO
+http://nvpro.tv:80/808080/909090/97079
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ ASIAN CUP 1 NANO
+http://nvpro.tv:80/808080/909090/97078
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ ASIAN CUP 2 NANO
+http://nvpro.tv:80/808080/909090/97077
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ AFCON 1 HQ
+http://nvpro.tv:80/808080/909090/97084
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ AFCON 2 HQ
+http://nvpro.tv:80/808080/909090/97083
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ ASIAN CUP 1 HQ
+http://nvpro.tv:80/808080/909090/97082
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ ASIAN CUP 2 HQ
+http://nvpro.tv:80/808080/909090/97081
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ AFCON 1 HD
+http://nvpro.tv:80/808080/909090/97068
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ AFCON 2 HD
+http://nvpro.tv:80/808080/909090/97067
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ ASIAN CUP 1 HD
+http://nvpro.tv:80/808080/909090/97066
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ ASIAN CUP 2 HD
+http://nvpro.tv:80/808080/909090/97065
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ AFCON 1 4K H265
+http://nvpro.tv:80/808080/909090/97088
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ AFCON 2 4K H265
+http://nvpro.tv:80/808080/909090/97087
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ ASIANCUP 1 4K H265
+http://nvpro.tv:80/808080/909090/97086
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ ASIANCUP 2 4K H265
+http://nvpro.tv:80/808080/909090/97085
+
+
+#EXTINF:-1,•●★★--- فِلَسْطِين ---★★●•
+http://nvpro.tv:80/808080/909090/33793
+#EXTINF:-1 tvg-id="" tvg-name="Al Fajer TV HD2" tvg-logo="" group-title="AL FAJER TV",Al Fajer TV HD2
+http://nvpro.tv:80/808080/909090/33793
+#EXTINF:-1 tvg-id="" tvg-name="Al Fajer TV HD3" tvg-logo="" group-title="AL FAJER TV",Al Fajer TV HD3
+http://nvpro.tv:80/808080/909090/33791
+#EXTINF:-1 tvg-id="" tvg-name="Al Fajer TV HD4" tvg-logo="" group-title="AL FAJER TV",Al Fajer TV HD4
+http://nvpro.tv:80/808080/909090/33790
+#EXTINF:-1 tvg-id="" tvg-name="Al Fajer TV HD5" tvg-logo="" group-title="AL FAJER TV",Al Fajer TV HD5
+http://nvpro.tv:80/808080/909090/33789
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NOVA QURAAN HD" tvg-logo="" group-title="NOVA CHANNELS",NOVA QURAAN HD
+http://nvpro.tv:80/808080/909090/33265
+#EXTINF:-1 tvg-id="" tvg-name="Al MAJD Quran*" tvg-logo="" group-title="ISLAMIC CHANNELS",Al MAJD Quran*
+http://nvpro.tv:80/808080/909090/73029
+#EXTINF:-1 tvg-id="" tvg-name="Al MAJD Hadith*" tvg-logo="" group-title="ISLAMIC CHANNELS",Al MAJD Hadith*
+http://nvpro.tv:80/808080/909090/73028
+#EXTINF:-1 tvg-id="" tvg-name="Safaa TV" tvg-logo="" group-title="ISLAMIC CHANNELS",Safaa TV
+http://nvpro.tv:80/808080/909090/73027
+#EXTINF:-1 tvg-id="" tvg-name="AL Ressala HD" tvg-logo="" group-title="ISLAMIC CHANNELS",AL Ressala HD
+http://nvpro.tv:80/808080/909090/73026
+#EXTINF:-1 tvg-id="" tvg-name="Iquraa tv" tvg-logo="" group-title="ISLAMIC CHANNELS",Iquraa tv
+http://nvpro.tv:80/808080/909090/73025
+#EXTINF:-1 tvg-id="" tvg-name="Iqraa International" tvg-logo="" group-title="ISLAMIC CHANNELS",Iqraa International
+http://nvpro.tv:80/808080/909090/73024
+#EXTINF:-1 tvg-id="" tvg-name="Saudia Sunnah HD" tvg-logo="" group-title="ISLAMIC CHANNELS",Saudia Sunnah HD
+http://nvpro.tv:80/808080/909090/73023
+#EXTINF:-1 tvg-id="" tvg-name="Saudia Quran HD" tvg-logo="" group-title="ISLAMIC CHANNELS",Saudia Quran HD
+http://nvpro.tv:80/808080/909090/73022
+#EXTINF:-1 tvg-id="" tvg-name="Bahran Quran HD" tvg-logo="" group-title="ISLAMIC CHANNELS",Bahran Quran HD
+http://nvpro.tv:80/808080/909090/73021
+#EXTINF:-1 tvg-id="" tvg-name="Dua Channel" tvg-logo="" group-title="ISLAMIC CHANNELS",Dua Channel
+http://nvpro.tv:80/808080/909090/73020
+#EXTINF:-1 tvg-id="" tvg-name="Al-Ma'aly" tvg-logo="" group-title="ISLAMIC CHANNELS",Al-Ma'aly
+http://nvpro.tv:80/808080/909090/73019
+#EXTINF:-1 tvg-id="" tvg-name="Huda TV" tvg-logo="" group-title="ISLAMIC CHANNELS",Huda TV
+http://nvpro.tv:80/808080/909090/73018
+#EXTINF:-1 tvg-id="" tvg-name="AL Rahma" tvg-logo="" group-title="ISLAMIC CHANNELS",AL Rahma
+http://nvpro.tv:80/808080/909090/73017
+#EXTINF:-1 tvg-id="" tvg-name="Al Nas" tvg-logo="" group-title="ISLAMIC CHANNELS",Al Nas
+http://nvpro.tv:80/808080/909090/73016
+#EXTINF:-1 tvg-id="" tvg-name="Azhari" tvg-logo="" group-title="ISLAMIC CHANNELS",Azhari
+http://nvpro.tv:80/808080/909090/73015
+#EXTINF:-1 tvg-id="" tvg-name="ZAD TV" tvg-logo="" group-title="ISLAMIC CHANNELS",ZAD TV
+http://nvpro.tv:80/808080/909090/73014
+
+#EXTINF:0 CUID="141" tvg-name=" TECH GIT لدخول للموقع ابحث في جوجل عن" tvg-logo="https://j.top4top.io/p_2805lxgyw1.jpg" group-title="FR | FRANCE GENERAL", TECH GIT لدخول للموقع ابحث في جوجل عن
+https://d.top4top.io/m_2805isaps1.mp4
+
+#EXTINF:-1,•●★★--- اخبار ---★★●•
+http://nvpro.tv:80/808080/909090/32870
+#EXTINF:-1 tvg-id="" tvg-name="Al Qahera News" tvg-logo="" group-title="NEWS CHANNELS",Al Qahera News
+http://nvpro.tv:80/808080/909090/73075
+#EXTINF:-1 tvg-id="" tvg-name="Asharq News Channel HD" tvg-logo="" group-title="NEWS CHANNELS",Asharq News Channel HD
+http://nvpro.tv:80/808080/909090/73074
+#EXTINF:-1 tvg-id="" tvg-name="Sky News Arabia HD" tvg-logo="" group-title="NEWS CHANNELS",Sky News Arabia HD
+http://nvpro.tv:80/808080/909090/73073
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera News HD" tvg-logo="" group-title="NEWS CHANNELS",Al Jazeera News HD
+http://nvpro.tv:80/808080/909090/73072
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera Mubasher HD" tvg-logo="" group-title="NEWS CHANNELS",Al Jazeera Mubasher HD
+http://nvpro.tv:80/808080/909090/73071
+#EXTINF:-1 tvg-id="" tvg-name="Hiwar TV HD" tvg-logo="" group-title="NEWS CHANNELS",Hiwar TV HD
+http://nvpro.tv:80/808080/909090/73070
+#EXTINF:-1 tvg-id="" tvg-name="Al Ghad TV HD" tvg-logo="" group-title="NEWS CHANNELS",Al Ghad TV HD
+http://nvpro.tv:80/808080/909090/73069
+#EXTINF:-1 tvg-id="" tvg-name="BBC Arabic" tvg-logo="" group-title="NEWS CHANNELS",BBC Arabic
+http://nvpro.tv:80/808080/909090/73068
+#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="" group-title="NEWS CHANNELS",France 24
+http://nvpro.tv:80/808080/909090/73067
+#EXTINF:-1 tvg-id="" tvg-name="Al Alam News" tvg-logo="" group-title="NEWS CHANNELS",Al Alam News
+http://nvpro.tv:80/808080/909090/73066
+#EXTINF:-1 tvg-id="" tvg-name="DW Arabic HD" tvg-logo="" group-title="NEWS CHANNELS",DW Arabic HD
+http://nvpro.tv:80/808080/909090/73065
+#EXTINF:-1 tvg-id="" tvg-name="RT News Arabic HD" tvg-logo="" group-title="NEWS CHANNELS",RT News Arabic HD
+http://nvpro.tv:80/808080/909090/73064
+#EXTINF:-1 tvg-id="" tvg-name="TRT Arabi HD" tvg-logo="" group-title="NEWS CHANNELS",TRT Arabi HD
+http://nvpro.tv:80/808080/909090/73063
+#EXTINF:-1 tvg-id="" tvg-name="Al Araby TV HD" tvg-logo="" group-title="NEWS CHANNELS",Al Araby TV HD
+http://nvpro.tv:80/808080/909090/73062
+#EXTINF:-1 tvg-id="" tvg-name="Al Araby 2 HD" tvg-logo="" group-title="NEWS CHANNELS",Al Araby 2 HD
+http://nvpro.tv:80/808080/909090/73061
+#EXTINF:-1 tvg-id="" tvg-name="Al Arabia HD" tvg-logo="" group-title="NEWS CHANNELS",Al Arabia HD
+http://nvpro.tv:80/808080/909090/73060
+#EXTINF:-1 tvg-id="" tvg-name="AL Hadath" tvg-logo="" group-title="NEWS CHANNELS",AL Hadath
+http://nvpro.tv:80/808080/909090/73059
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Arabia" tvg-logo="" group-title="NEWS CHANNELS",CNBC Arabia
+http://nvpro.tv:80/808080/909090/73058
+#EXTINF:0 CUID="141" tvg-name=" TECH GIT لدخول للموقع ابحث في جوجل عن" tvg-logo="https://j.top4top.io/p_2805lxgyw1.jpg" group-title="FR | FRANCE GENERAL", TECH GIT لدخول للموقع ابحث في جوجل عن
+https://d.top4top.io/m_2805isaps1.mp4
+
+
+#EXTINF:-1,•●★★--- اطفال ---★★●•
+http://nvpro.tv:80/808080/909090/33850
+#EXTINF:-1 tvg-id="" tvg-name="KI-Al MAJD Basma" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-Al MAJD Basma
+http://nvpro.tv:80/808080/909090/33849
+#EXTINF:-1 tvg-id="" tvg-name="KI-Al MAJD Kids" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-Al MAJD Kids
+http://nvpro.tv:80/808080/909090/33848
+#EXTINF:-1 tvg-id="" tvg-name="KI-FAMLY KIDS" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-FAMLY KIDS
+http://nvpro.tv:80/808080/909090/33847
+#EXTINF:-1 tvg-id="" tvg-name="KI-FAMLY KIDS 2" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-FAMLY KIDS 2
+http://nvpro.tv:80/808080/909090/33846
+#EXTINF:-1 tvg-id="" tvg-name="KI-MAX KIDS" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-MAX KIDS
+http://nvpro.tv:80/808080/909090/33845
+#EXTINF:-1 tvg-id="" tvg-name="KI-Majestic Kids HD" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-Majestic Kids HD
+http://nvpro.tv:80/808080/909090/33844
+#EXTINF:-1 tvg-id="" tvg-name="KI-Movies Kids H.265" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-Movies Kids H.265
+http://nvpro.tv:80/808080/909090/33843
+#EXTINF:-1 tvg-id="" tvg-name="KI-Movies Kids SD" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-Movies Kids SD
+http://nvpro.tv:80/808080/909090/33842
+#EXTINF:-1 tvg-id="" tvg-name="KI-Movies Kids HD" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-Movies Kids HD
+http://nvpro.tv:80/808080/909090/33841
+#EXTINF:-1 tvg-id="" tvg-name="KI-NETFLIX KIDS" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-NETFLIX KIDS
+http://nvpro.tv:80/808080/909090/33840
+#EXTINF:-1 tvg-id="" tvg-name="KI-NOVA KIDS HD" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-NOVA KIDS HD
+http://nvpro.tv:80/808080/909090/33839
+#EXTINF:-1 tvg-id="" tvg-name="KI-NOVA KIDS 2 TOM&amp;JERRY" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-NOVA KIDS 2 TOM&amp;JERRY
+http://nvpro.tv:80/808080/909090/33838
+#EXTINF:-1 tvg-id="" tvg-name="KI-Play KIDs Song HD" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-Play KIDs Song HD
+http://nvpro.tv:80/808080/909090/33837
+#EXTINF:-1 tvg-id="" tvg-name="KI-⚽موقع بوابة التكنولوجيا⚽️ Baraem HD" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-⚽موقع بوابة التكنولوجيا⚽️ Baraem HD
+http://nvpro.tv:80/808080/909090/33836
+#EXTINF:-1 tvg-id="" tvg-name="KI-⚽موقع بوابة التكنولوجيا⚽️ jeem HD" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-⚽موقع بوابة التكنولوجيا⚽️ jeem HD
+http://nvpro.tv:80/808080/909090/33835
+#EXTINF:-1 tvg-id="" tvg-name="KI-⚽موقع بوابة التكنولوجيا⚽️ Dream Work HD" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-⚽موقع بوابة التكنولوجيا⚽️ Dream Work HD
+http://nvpro.tv:80/808080/909090/33834
+#EXTINF:-1 tvg-id="" tvg-name="KI-⚽موقع بوابة التكنولوجيا⚽️ Carton Network HD" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-⚽موقع بوابة التكنولوجيا⚽️ Carton Network HD
+http://nvpro.tv:80/808080/909090/33833
+#EXTINF:-1 tvg-id="" tvg-name="KI-Shahid Cartoon HD" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-Shahid Cartoon HD
+http://nvpro.tv:80/808080/909090/33832
+#EXTINF:-1 tvg-id="" tvg-name="KI-Disney HD" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-Disney HD
+http://nvpro.tv:80/808080/909090/33831
+#EXTINF:-1 tvg-id="" tvg-name="KI-Disney Junior HD" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-Disney Junior HD
+http://nvpro.tv:80/808080/909090/33830
+#EXTINF:-1 tvg-id="" tvg-name="KI-Movies Disney HD" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-Movies Disney HD
+http://nvpro.tv:80/808080/909090/33829
+#EXTINF:-1 tvg-id="" tvg-name="KI-Nick Jr HD" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-Nick Jr HD
+http://nvpro.tv:80/808080/909090/33828
+#EXTINF:-1 tvg-id="" tvg-name="KI-Nick Toons" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-Nick Toons
+http://nvpro.tv:80/808080/909090/33827
+#EXTINF:-1 tvg-id="" tvg-name="KI-Nickelodeon HD" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-Nickelodeon HD
+http://nvpro.tv:80/808080/909090/33826
+#EXTINF:-1 tvg-id="" tvg-name="KI-Baby TV HD" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-Baby TV HD
+http://nvpro.tv:80/808080/909090/33825
+#EXTINF:-1 tvg-id="" tvg-name="KI-MBC3 HD" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-MBC3 HD
+http://nvpro.tv:80/808080/909090/33818
+#EXTINF:-1 tvg-id="" tvg-name="KI-MBC JUNIOR HD" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-MBC JUNIOR HD
+http://nvpro.tv:80/808080/909090/33816
+#EXTINF:-1 tvg-id="" tvg-name="KI-Space Toon" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-Space Toon
+http://nvpro.tv:80/808080/909090/33815
+#EXTINF:-1 tvg-id="" tvg-name="KI-Shehab TV HD" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-Shehab TV HD
+http://nvpro.tv:80/808080/909090/33814
+#EXTINF:-1 tvg-id="" tvg-name="KI-Toyor Aljanah" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-Toyor Aljanah
+http://nvpro.tv:80/808080/909090/33811
+#EXTINF:-1 tvg-id="" tvg-name="KI-HodHod" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-HodHod
+http://nvpro.tv:80/808080/909090/33810
+#EXTINF:-1 tvg-id="" tvg-name="KI-Cartoon Network" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-Cartoon Network
+http://nvpro.tv:80/808080/909090/33809
+#EXTINF:-1 tvg-id="" tvg-name="KI-Taha" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-Taha
+http://nvpro.tv:80/808080/909090/33808
+#EXTINF:-1 tvg-id="" tvg-name="KI-Atfal W Mawaheb" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-Atfal W Mawaheb
+http://nvpro.tv:80/808080/909090/33807
+#EXTINF:-1 tvg-id="" tvg-name="KI-Tanna w Ranna" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-Tanna w Ranna
+http://nvpro.tv:80/808080/909090/33806
+#EXTINF:-1 tvg-id="" tvg-name="KI-Tom &amp; Jerry" tvg-logo="" group-title="ARABIC KIDS CHANNELS",KI-Tom &amp; Jerry
+http://nvpro.tv:80/808080/909090/33805
+
+#EXTINF:0 CUID="141" tvg-name=" TECH GIT لدخول للموقع ابحث في جوجل عن" tvg-logo="https://j.top4top.io/p_2805lxgyw1.jpg" group-title="FR | FRANCE GENERAL", TECH GIT لدخول للموقع ابحث في جوجل عن
+https://d.top4top.io/m_2805isaps1.mp4
+
+
+
+
+
+
+#EXTINF:0 CUID="141" tvg-name=" TECH GIT لدخول للموقع ابحث في جوجل عن" tvg-logo="https://j.top4top.io/p_2805lxgyw1.jpg" group-title="FR | FRANCE GENERAL", TECH GIT لدخول للموقع ابحث في جوجل عن
+https://d.top4top.io/m_2805isaps1.mp4
+
+
+
+#EXTINF:-1,•●★★-بوابة التكنولوجيا  امم افريقيا---★★●•
+http://nvpro.tv:80/808080/909090/97072
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ AFCON 1 LOW
+http://nvpro.tv:80/808080/909090/97072
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ AFCON 2 LOW
+http://nvpro.tv:80/808080/909090/97071
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ ASIAN CUP 1 LOW
+http://nvpro.tv:80/808080/909090/97070
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ ASIAN CUP 2 LOW
+http://nvpro.tv:80/808080/909090/97069
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ AFCON 1 SD
+http://nvpro.tv:80/808080/909090/97076
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ AFCON 2 SD
+http://nvpro.tv:80/808080/909090/97075
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ ASIAN CUP 1 SD
+http://nvpro.tv:80/808080/909090/97074
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ ASIAN CUP 2 SD
+http://nvpro.tv:80/808080/909090/97073
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ AFCON 1 NANO
+http://nvpro.tv:80/808080/909090/97080
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ AFCON 2 NANO
+http://nvpro.tv:80/808080/909090/97079
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ ASIAN CUP 1 NANO
+http://nvpro.tv:80/808080/909090/97078
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ ASIAN CUP 2 NANO
+http://nvpro.tv:80/808080/909090/97077
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ AFCON 1 HQ
+http://nvpro.tv:80/808080/909090/97084
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ AFCON 2 HQ
+http://nvpro.tv:80/808080/909090/97083
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ ASIAN CUP 1 HQ
+http://nvpro.tv:80/808080/909090/97082
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ ASIAN CUP 2 HQ
+http://nvpro.tv:80/808080/909090/97081
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ AFCON 1 HD
+http://nvpro.tv:80/808080/909090/97068
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ AFCON 2 HD
+http://nvpro.tv:80/808080/909090/97067
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ ASIAN CUP 1 HD
+http://nvpro.tv:80/808080/909090/97066
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ ASIAN CUP 2 HD
+http://nvpro.tv:80/808080/909090/97065
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ AFCON 1 4K H265
+http://nvpro.tv:80/808080/909090/97088
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ AFCON 2 4K H265
+http://nvpro.tv:80/808080/909090/97087
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ ASIANCUP 1 4K H265
+http://nvpro.tv:80/808080/909090/97086
+#EXTINF:-1,⚽موقع بوابة التكنولوجيا⚽️ ASIANCUP 2 4K H265
+http://nvpro.tv:80/808080/909090/97085
+
+
+
+
+#EXTINF:-1,•●★★--- ⚽موقع بوابة التكنولوجيا⚽️ ---★★●•
+https://d.top4top.io/m_2805isaps1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️-XTRA 1 LOW" tvg-logo="" group-title="⚽موقع بوابة التكنولوجيا⚽️ XTRA-AFC",⚽️موقع بوابة التكنولوجيا⚽️-XTRA 1 LOW
+http://nvpro.tv:80/808080/909090/84219
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️-XTRA 2 LOW" tvg-logo="" group-title="⚽موقع بوابة التكنولوجيا⚽️ XTRA-AFC",⚽️موقع بوابة التكنولوجيا⚽️-XTRA 2 LOW
+http://nvpro.tv:80/808080/909090/84218
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️-XTRA 1 SD" tvg-logo="" group-title="⚽️موقع ايبي فور اون⚽️ XTRA-AFC",⚽️موقع بوابة التكنولوجيا⚽️-XTRA 1 SD
+http://nvpro.tv:80/808080/909090/84216
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️-XTRA 2 SD" tvg-logo="" group-title="⚽موقع بوابة التكنولوجيا⚽️ XTRA-AFC",⚽️موقع ايبي فور اون⚽️-XTRA 2 SD
+http://nvpro.tv:80/808080/909090/84217
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️-XTRA 1 HD" tvg-logo="" group-title="⚽موقع بوابة التكنولوجيا⚽️ XTRA-AFC",⚽️موقع بوابة التكنولوجيا⚽️-XTRA 1 HD
+http://nvpro.tv:80/808080/909090/84222
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️-XTRA 2 HD" tvg-logo="" group-title="⚽موقع بوابة التكنولوجيا⚽️ XTRA-AFC",⚽️موقع بوابة التكنولوجيا⚽️-XTRA 2 HD
+http://nvpro.tv:80/808080/909090/84223
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️-XTRA 1 4K H265" tvg-logo="" group-title="⚽موقع بوابة التكنولوجيا⚽️ XTRA-AFC",⚽موقع بوابة التكنولوجيا⚽️-XTRA 1 4K H265
+http://nvpro.tv:80/808080/909090/84220
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️-XTRA 2 4K H265" tvg-logo="" group-title="⚽موقع بوابة التكنولوجيا⚽️ XTRA-AFC",⚽موقع بوابة التكنولوجيا⚽️-XTRA 2 4K H265
+http://nvpro.tv:80/808080/909090/84221
+#EXTINF:0 CUID="141" tvg-name="https://t.me/techgitt قناتنا على التلجرام " tvg-logo="https://j.top4top.io/p_2805lxgyw1.jpg" group-title="FR | FRANCE GENERAL",https://t.me/techgitt قناتنا على التلجرام 
+https://d.top4top.io/m_2805isaps1.mp4
+#EXTINF:-1,•●★★--- ⚽موقع بوابة التكنولوجيا⚽️ ---★★●•
+https://d.top4top.io/m_2805isaps1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AFC LOW" tvg-logo="" group-title="⚽موقع بوابة التكنولوجيا⚽️ XTRA-AFC",AFC LOW
+http://nvpro.tv:80/808080/909090/84584
+#EXTINF:-1 tvg-id="" tvg-name="AFC HD" tvg-logo="" group-title="⚽موقع بوابة التكنولوجيا⚽️ XTRA-AFC",AFC HD
+http://nvpro.tv:80/808080/909090/84583
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️ SPORT 1 MINI 512K" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b1.png" group-title="⚽موقع بوابة التكنولوجيا⚽️ SPORT MINI 512K",⚽موقع بوابة التكنولوجيا⚽️ SPORT 1 MINI 512K
+http://nvpro.tv:80/808080/909090/1644
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️ SPORT 2 MINI 512K" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b2.png" group-title="⚽موقع بوابة التكنولوجيا⚽️ SPORT MINI 512K",⚽موقع بوابة التكنولوجيا⚽️ SPORT 2 MINI 512K
+http://nvpro.tv:80/808080/909090/1645
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️ SPORT 3 MINI 512K" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b3.png" group-title="⚽موقع بوابة التكنولوجيا⚽️ SPORT MINI 512K",⚽موقع بوابة التكنولوجيا⚽️ SPORT 3 MINI 512K
+http://nvpro.tv:80/808080/909090/1646
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️ SPORT 4 MINI 512K" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b4.png" group-title="⚽موقع بوابة التكنولوجيا⚽️ SPORT MINI 512K",⚽موقع بوابة التكنولوجيا⚽️ SPORT 4 MINI 512K
+http://nvpro.tv:80/808080/909090/1647
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️ SPORT 5 MINI 512K" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b5.png" group-title="⚽موقع بوابة التكنولوجيا⚽️ SPORT MINI 512K",⚽موقع بوابة التكنولوجيا⚽️ SPORT 5 MINI 512K
+http://nvpro.tv:80/808080/909090/1648
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️ SPORT 6 MINI 512K" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b6.png" group-title="⚽موقع بوابة التكنولوجيا⚽️ SPORT MINI 512K",⚽موقع بوابة التكنولوجيا⚽️ SPORT 6 MINI 512K
+http://nvpro.tv:80/808080/909090/1649
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️ SPORT 7 MINI 512K" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b7.png" group-title="⚽موقع بوابة التكنولوجيا⚽️ SPORT MINI 512K",⚽موقع بوابة التكنولوجيا⚽️ SPORT 7 MINI 512K
+http://nvpro.tv:80/808080/909090/1650
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️ SPORT 8 MINI 512K" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b8.png" group-title="⚽موقع بوابة التكنولوجيا⚽️ SPORT MINI 512K",⚽موقع بوابة التكنولوجيا⚽️ SPORT 8 MINI 512K
+http://nvpro.tv:80/808080/909090/1651
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️ SPORT 9 MINI 512K" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b9.png" group-title="⚽موقع بوابة التكنولوجيا⚽️ SPORT MINI 512K",⚽موقع بوابة التكنولوجيا⚽️ SPORT 9 MINI 512K
+http://nvpro.tv:80/808080/909090/1652
+#EXTINF:0 CUID="141" tvg-name="https://t.me/techgitt قناتنا على التلجرام " tvg-logo="https://j.top4top.io/p_2805lxgyw1.jpg" group-title="FR | FRANCE GENERAL",https://t.me/techgitt قناتنا على التلجرام 
+https://d.top4top.io/m_2805isaps1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 1 LOW 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b1.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT LOW 1M",⚽️موقع ايبي فور اون⚽️ SPORT 1 LOW 1M
+http://nvpro.tv:80/808080/909090/1634
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 2 LOW 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b2.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT LOW 1M",⚽️موقع ايبي فور اون⚽️ SPORT 2 LOW 1M
+http://nvpro.tv:80/808080/909090/1635
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 3 LOW 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b3.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT LOW 1M",⚽️موقع ايبي فور اون⚽️ SPORT 3 LOW 1M
+http://nvpro.tv:80/808080/909090/1636
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 4 LOW 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b4.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT LOW 1M",⚽️موقع ايبي فور اون⚽️ SPORT 4 LOW 1M
+http://nvpro.tv:80/808080/909090/1637
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 5 LOW 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b5.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT LOW 1M",⚽️موقع ايبي فور اون⚽️ SPORT 5 LOW 1M
+http://nvpro.tv:80/808080/909090/1638
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 6 LOW 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b6.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT LOW 1M",⚽️موقع ايبي فور اون⚽️ SPORT 6 LOW 1M
+http://nvpro.tv:80/808080/909090/1639
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 7 LOW 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b7.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT LOW 1M",⚽️موقع ايبي فور اون⚽️ SPORT 7 LOW 1M
+http://nvpro.tv:80/808080/909090/1640
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 8 LOW 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b8.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT LOW 1M",⚽️موقع ايبي فور اون⚽️ SPORT 8 LOW 1M
+http://nvpro.tv:80/808080/909090/1641
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 9 LOW 1M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b9.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT LOW 1M",⚽️موقع ايبي فور اون⚽️ SPORT 9 LOW 1M
+http://nvpro.tv:80/808080/909090/1642
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 1 SD" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b1.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT SD 2M",⚽️موقع ايبي فور اون⚽️ SPORT 1 SD
+http://nvpro.tv:80/808080/909090/1612
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 2 SD" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b2.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT SD 2M",⚽️موقع ايبي فور اون⚽️ SPORT 2 SD
+http://nvpro.tv:80/808080/909090/1613
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 3 SD" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b3.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT SD 2M",⚽️موقع ايبي فور اون⚽️ SPORT 3 SD
+http://nvpro.tv:80/808080/909090/1614
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 4 SD" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b4.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT SD 2M",⚽️موقع ايبي فور اون⚽️ SPORT 4 SD
+http://nvpro.tv:80/808080/909090/1615
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 5 SD" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b5.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT SD 2M",⚽️موقع ايبي فور اون⚽️ SPORT 5 SD
+http://nvpro.tv:80/808080/909090/1616
+#EXTINF:0 CUID="141" tvg-name="https://t.me/techgitt قناتنا على التلجرام " tvg-logo="https://j.top4top.io/p_2805lxgyw1.jpg" group-title="FR | FRANCE GENERAL",https://t.me/techgitt قناتنا على التلجرام 
+https://d.top4top.io/m_2805isaps1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 6 SD" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b6.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT SD 2M",⚽️موقع ايبي فور اون⚽️ SPORT 6 SD
+http://nvpro.tv:80/808080/909090/1617
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 7 SD" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b7.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT SD 2M",⚽️موقع ايبي فور اون⚽️ SPORT 7 SD
+http://nvpro.tv:80/808080/909090/1618
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 8 SD" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b8.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT SD 2M",⚽️موقع ايبي فور اون⚽️ SPORT 8 SD
+http://nvpro.tv:80/808080/909090/1619
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 9 SD" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b9.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT SD 2M",⚽️موقع ايبي فور اون⚽️ SPORT 9 SD
+http://nvpro.tv:80/808080/909090/1620
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 1 NANO 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b1.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT HD NANO 2M",⚽️موقع ايبي فور اون⚽️ SPORT 1 NANO 2M
+http://nvpro.tv:80/808080/909090/1624
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 2 NANO 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b2.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT HD NANO 2M",⚽️موقع ايبي فور اون⚽️ SPORT 2 NANO 2M
+http://nvpro.tv:80/808080/909090/1625
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 3 NANO 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b3.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT HD NANO 2M",⚽️موقع ايبي فور اون⚽️ SPORT 3 NANO 2M
+http://nvpro.tv:80/808080/909090/1626
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 4 NANO 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b4.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT HD NANO 2M",⚽️موقع ايبي فور اون⚽️ SPORT 4 NANO 2M
+http://nvpro.tv:80/808080/909090/1627
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 5 NANO 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b5.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT HD NANO 2M",⚽️موقع ايبي فور اون⚽️ SPORT 5 NANO 2M
+http://nvpro.tv:80/808080/909090/1628
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 6 NANO 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b6.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT HD NANO 2M",⚽️موقع ايبي فور اون⚽️ SPORT 6 NANO 2M
+http://nvpro.tv:80/808080/909090/1629
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 7 NANO 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b7.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT HD NANO 2M",⚽️موقع ايبي فور اون⚽️ SPORT 7 NANO 2M
+http://nvpro.tv:80/808080/909090/1630
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 8 NANO 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b8.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT HD NANO 2M",⚽️موقع ايبي فور اون⚽️ SPORT 8 NANO 2M
+http://nvpro.tv:80/808080/909090/1631
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 9 NANO 2M" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b9.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT HD NANO 2M",⚽️موقع ايبي فور اون⚽️ SPORT 9 NANO 2M
+http://nvpro.tv:80/808080/909090/1632
+#EXTINF:0 CUID="141" tvg-name="https://t.me/techgitt قناتنا على التلجرام " tvg-logo="https://j.top4top.io/p_2805lxgyw1.jpg" group-title="FR | FRANCE GENERAL",https://t.me/techgitt قناتنا على التلجرام 
+https://d.top4top.io/m_2805isaps1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 1 HQ" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b1.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT HQ 4M",⚽️موقع ايبي فور اون⚽️ SPORT 1 HQ
+http://nvpro.tv:80/808080/909090/1590
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 2 HQ" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b2.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT HQ 4M",⚽️موقع ايبي فور اون⚽️ SPORT 2 HQ
+http://nvpro.tv:80/808080/909090/1591
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 3 HQ" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b3.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT HQ 4M",⚽️موقع ايبي فور اون⚽️ SPORT 3 HQ
+http://nvpro.tv:80/808080/909090/1592
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 4 HQ" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b4.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT HQ 4M",⚽️موقع ايبي فور اون⚽️ SPORT 4 HQ
+http://nvpro.tv:80/808080/909090/1593
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 5 HQ" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b5.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT HQ 4M",⚽️موقع ايبي فور اون⚽️ SPORT 5 HQ
+http://nvpro.tv:80/808080/909090/1594
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 6 HQ" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b6.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT HQ 4M",⚽️موقع ايبي فور اون⚽️ SPORT 6 HQ
+http://nvpro.tv:80/808080/909090/1595
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 7 HQ" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b7.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT HQ 4M",⚽️موقع ايبي فور اون⚽️ SPORT 7 HQ
+http://nvpro.tv:80/808080/909090/1596
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 8 HQ" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b8.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT HQ 4M",⚽️موقع ايبي فور اون⚽️ SPORT 8 HQ
+http://nvpro.tv:80/808080/909090/1597
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 9 HQ" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b9.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT HQ 4M",⚽️موقع ايبي فور اون⚽️ SPORT 9 HQ
+http://nvpro.tv:80/808080/909090/1598
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 1 PURE" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b1.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT PURE 4/8M",⚽️موقع ايبي فور اون⚽️ SPORT 1 PURE
+http://nvpro.tv:80/808080/909090/1602
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 2 PURE" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b2.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT PURE 4/8M",⚽️موقع ايبي فور اون⚽️ SPORT 2 PURE
+http://nvpro.tv:80/808080/909090/1603
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 3 PURE" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b3.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT PURE 4/8M",⚽️موقع ايبي فور اون⚽️ SPORT 3 PURE
+http://nvpro.tv:80/808080/909090/1604
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 4 PURE" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b4.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT PURE 4/8M",⚽️موقع ايبي فور اون⚽️ SPORT 4 PURE
+http://nvpro.tv:80/808080/909090/1605
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 5 PURE" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b5.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT PURE 4/8M",⚽️موقع ايبي فور اون⚽️ SPORT 5 PURE
+http://nvpro.tv:80/808080/909090/1606
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 6 PURE" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b6.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT PURE 4/8M",⚽️موقع ايبي فور اون⚽️ SPORT 6 PURE
+http://nvpro.tv:80/808080/909090/1607
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 7 PURE" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b7.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT PURE 4/8M",⚽️موقع ايبي فور اون⚽️ SPORT 7 PURE
+http://nvpro.tv:80/808080/909090/1608
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 8 PURE" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b8.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT PURE 4/8M",⚽️موقع ايبي فور اون⚽️ SPORT 8 PURE
+http://nvpro.tv:80/808080/909090/1609
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 9 PURE" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b9.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT PURE 4/8M",⚽️موقع ايبي فور اون⚽️ SPORT 9 PURE
+http://nvpro.tv:80/808080/909090/1610
+#EXTINF:0 CUID="141" tvg-name=" TECH GIT لدخول للموقع ابحث في جوجل عن" tvg-logo="https://j.top4top.io/p_2805lxgyw1.jpg" group-title="FR | FRANCE GENERAL", TECH GIT لدخول للموقع ابحث في جوجل عن
+https://d.top4top.io/m_2805isaps1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 1 H265 HD" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b1h.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT  H265 HD 2M",⚽️موقع ايبي فور اون⚽️ SPORT 1 H265 HD
+http://nvpro.tv:80/808080/909090/15933
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 2 H265 HD" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b2h.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT  H265 HD 2M",⚽️موقع ايبي فور اون⚽️ SPORT 2 H265 HD
+http://nvpro.tv:80/808080/909090/15934
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 3 H265 HD" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b3h.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT  H265 HD 2M",⚽️موقع ايبي فور اون⚽️ SPORT 3 H265 HD
+http://nvpro.tv:80/808080/909090/15935
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 4 H265 HD" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b4h.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT  H265 HD 2M",⚽️موقع ايبي فور اون⚽️ SPORT 4 H265 HD
+http://nvpro.tv:80/808080/909090/15936
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 5 H265 HD" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b5h.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT  H265 HD 2M",⚽️موقع ايبي فور اون⚽️ SPORT 5 H265 HD
+http://nvpro.tv:80/808080/909090/15937
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 6 H265 HD" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b6h.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT  H265 HD 2M",⚽️موقع ايبي فور اون⚽️ SPORT 6 H265 HD
+http://nvpro.tv:80/808080/909090/15938
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 7 H265 HD" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b7h.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT  H265 HD 2M",⚽️موقع ايبي فور اون⚽️ SPORT 7 H265 HD
+http://nvpro.tv:80/808080/909090/15939
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 8 H265 HD" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b8h.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT  H265 HD 2M",⚽️موقع ايبي فور اون⚽️ SPORT 8 H265 HD
+http://nvpro.tv:80/808080/909090/15940
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 9 H265 HD" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b9h.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT  H265 HD 2M",⚽️موقع ايبي فور اون⚽️ SPORT 9 H265 HD
+http://nvpro.tv:80/808080/909090/15941
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 1 FHD H265" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b1h.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT  H265 FHD 4M",⚽️موقع ايبي فور اون⚽️ SPORT 1 FHD H265
+http://nvpro.tv:80/808080/909090/12499
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 2 FHD H265" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b2h.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT  H265 FHD 4M",⚽️موقع ايبي فور اون⚽️ SPORT 2 FHD H265
+http://nvpro.tv:80/808080/909090/12500
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 3 FHD H265" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b3h.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT  H265 FHD 4M",⚽️موقع ايبي فور اون⚽️ SPORT 3 FHD H265
+http://nvpro.tv:80/808080/909090/12501
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 4 FHD H265" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b4h.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT  H265 FHD 4M",⚽️موقع ايبي فور اون⚽️ SPORT 4 FHD H265
+http://nvpro.tv:80/808080/909090/12502
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 5 FHD H265" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b5h.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT  H265 FHD 4M",⚽️موقع ايبي فور اون⚽️ SPORT 5 FHD H265
+http://nvpro.tv:80/808080/909090/12503
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 6 FHD H265" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b6h.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT  H265 FHD 4M",⚽️موقع ايبي فور اون⚽️ SPORT 6 FHD H265
+http://nvpro.tv:80/808080/909090/12504
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 7 FHD H265" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b7h.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT  H265 FHD 4M",⚽️موقع ايبي فور اون⚽️ SPORT 7 FHD H265
+http://nvpro.tv:80/808080/909090/12505
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 8 FHD H265" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b8h.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT  H265 FHD 4M",⚽️موقع ايبي فور اون⚽️ SPORT 8 FHD H265
+http://nvpro.tv:80/808080/909090/12506
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORT 9 FHD H265" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b9h.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT  H265 FHD 4M",⚽️موقع ايبي فور اون⚽️ SPORT 9 FHD H265
+http://nvpro.tv:80/808080/909090/12507
+#EXTINF:-1 tvg-id="" tvg-name="⚽️موقع ايبي فور اون⚽️ SPORTS 1 POWER" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b1h.png" group-title="⚽️موقع ايبي فور اون⚽️ SPORT POWER 8M",⚽️موقع ايبي فور اون⚽️ SPORTS 1 POWER
+http://nvpro.tv:80/808080/909090/32855
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️ SPORTS 2 POWER" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b2h.png" group-title="⚽موقع بوابة التكنولوجيا⚽️ SPORT POWER 8M",⚽موقع بوابة التكنولوجيا⚽️ SPORTS 2 POWER
+http://nvpro.tv:80/808080/909090/32854
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️ SPORTS 3 POWER" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b3h.png" group-title="⚽موقع بوابة التكنولوجيا⚽️ SPORT POWER 8M",⚽موقع بوابة التكنولوجيا⚽️ SPORTS 3 POWER
+http://nvpro.tv:80/808080/909090/32853
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️ SPORTS 4 POWER" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b4h.png" group-title="⚽موقع بوابة التكنولوجيا⚽️ SPORT POWER 8M",⚽موقع بوابة التكنولوجيا⚽️ SPORTS 4 POWER
+http://nvpro.tv:80/808080/909090/32852
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️ SPORTS 5 POWER" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b5h.png" group-title="⚽موقع بوابة التكنولوجيا⚽️ SPORT POWER 8M",⚽موقع بوابة التكنولوجيا⚽️ SPORTS 5 POWER
+http://nvpro.tv:80/808080/909090/32851
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️ SPORTS 6 POWER" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b6h.png" group-title="⚽موقع بوابة التكنولوجيا⚽️ SPORT POWER 8M",⚽موقع بوابة التكنولوجيا⚽️ SPORTS 6 POWER
+http://nvpro.tv:80/808080/909090/32850
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️ SPORTS 7 POWER" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b7h.png" group-title="⚽موقع بوابة التكنولوجيا⚽️ SPORT POWER 8M",⚽موقع بوابة التكنولوجيا⚽️ SPORTS 7 POWER
+http://nvpro.tv:80/808080/909090/32849
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️ SPORTS 8 POWER" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b8h.png" group-title="⚽موقع بوابة التكنولوجيا⚽️ SPORT POWER 8M",⚽موقع بوابة التكنولوجيا⚽️ SPORTS 8 POWER
+http://nvpro.tv:80/808080/909090/32848
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️ SPORTS 9 POWER" tvg-logo="http://nova-photo.novalivetv.com:8080/photo/b9h.png" group-title="⚽موقع بوابة التكنولوجيا⚽️ SPORT POWER 8M",⚽موقع بوابة التكنولوجيا⚽️ SPORTS 9 POWER
+http://nvpro.tv:80/808080/909090/32847
+#EXTINF:-1 tvg-id="" tvg-name="USA MATCH LIVE" tvg-logo="" group-title="WORLD SPORT CHANNELS",USA MATCH LIVE
+http://nvpro.tv:80/808080/909090/95397
+
+
+#EXTINF:-1,•●★★--- SSC --★★●•
+https://d.top4top.io/m_2805isaps1.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 MA HD" tvg-logo="" group-title="SSC Multi Audio",SSC 1 MA HD
+http://nvpro.tv:80/808080/909090/95856
+#EXTINF:-1 tvg-id="" tvg-name="SSC 2 MA HD" tvg-logo="" group-title="SSC Multi Audio",SSC 2 MA HD
+http://nvpro.tv:80/808080/909090/95855
+#EXTINF:-1 tvg-id="" tvg-name="SSC 3 MA HD" tvg-logo="" group-title="SSC Multi Audio",SSC 3 MA HD
+http://nvpro.tv:80/808080/909090/95854
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4 MA HD" tvg-logo="" group-title="SSC Multi Audio",SSC 4 MA HD
+http://nvpro.tv:80/808080/909090/95853
+#EXTINF:-1 tvg-id="" tvg-name="SSC 5 MA HD" tvg-logo="" group-title="SSC Multi Audio",SSC 5 MA HD
+http://nvpro.tv:80/808080/909090/95852
+#EXTINF:-1 tvg-id="" tvg-name="SSC EXTRA 1 MA HD" tvg-logo="" group-title="SSC Multi Audio",SSC EXTRA 1 MA HD
+http://nvpro.tv:80/808080/909090/95851
+#EXTINF:-1 tvg-id="" tvg-name="SSC EXTRA 2 MA HD" tvg-logo="" group-title="SSC Multi Audio",SSC EXTRA 2 MA HD
+http://nvpro.tv:80/808080/909090/95850
+#EXTINF:-1 tvg-id="" tvg-name="SSC EXTRA 3 MA HD" tvg-logo="" group-title="SSC Multi Audio",SSC EXTRA 3 MA HD
+http://nvpro.tv:80/808080/909090/95849
+#EXTINF:-1 tvg-id="" tvg-name="SSC NEWS HD" tvg-logo="" group-title="SSC SPORTS",SSC NEWS HD
+http://nvpro.tv:80/808080/909090/95244
+#EXTINF:0 CUID="141" tvg-name="https://t.me/techgitt قناتنا على التلجرام " tvg-logo="https://j.top4top.io/p_2805lxgyw1.jpg" group-title="FR | FRANCE GENERAL",https://t.me/techgitt قناتنا على التلجرام 
+https://d.top4top.io/m_2805isaps1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 Low" tvg-logo="" group-title="SSC SPORTS",SSC 1 Low
+http://nvpro.tv:80/808080/909090/94922
+#EXTINF:-1 tvg-id="" tvg-name="SSC 2 Low" tvg-logo="" group-title="SSC SPORTS",SSC 2 Low
+http://nvpro.tv:80/808080/909090/94921
+#EXTINF:-1 tvg-id="" tvg-name="SSC 3 Low" tvg-logo="" group-title="SSC SPORTS",SSC 3 Low
+http://nvpro.tv:80/808080/909090/94920
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4 Low" tvg-logo="" group-title="SSC SPORTS",SSC 4 Low
+http://nvpro.tv:80/808080/909090/94919
+#EXTINF:-1 tvg-id="" tvg-name="SSC 5 Low" tvg-logo="" group-title="SSC SPORTS",SSC 5 Low
+http://nvpro.tv:80/808080/909090/94918
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 1 Low" tvg-logo="" group-title="SSC SPORTS",SSC Extra 1 Low
+http://nvpro.tv:80/808080/909090/94917
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 2 Low" tvg-logo="" group-title="SSC SPORTS",SSC Extra 2 Low
+http://nvpro.tv:80/808080/909090/94916
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 3 Low" tvg-logo="" group-title="SSC SPORTS",SSC Extra 3 Low
+http://nvpro.tv:80/808080/909090/94915
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 SD" tvg-logo="" group-title="SSC SPORTS",SSC 1 SD
+http://nvpro.tv:80/808080/909090/94890
+#EXTINF:-1 tvg-id="" tvg-name="SSC 2 SD" tvg-logo="" group-title="SSC SPORTS",SSC 2 SD
+http://nvpro.tv:80/808080/909090/94889
+#EXTINF:-1 tvg-id="" tvg-name="SSC 3 SD" tvg-logo="" group-title="SSC SPORTS",SSC 3 SD
+http://nvpro.tv:80/808080/909090/94888
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4 SD" tvg-logo="" group-title="SSC SPORTS",SSC 4 SD
+http://nvpro.tv:80/808080/909090/94887
+#EXTINF:-1 tvg-id="" tvg-name="SSC 5 SD" tvg-logo="" group-title="SSC SPORTS",SSC 5 SD
+http://nvpro.tv:80/808080/909090/94886
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 1 SD" tvg-logo="" group-title="SSC SPORTS",SSC Extra 1 SD
+http://nvpro.tv:80/808080/909090/94885
+#EXTINF:0 CUID="141" tvg-name="https://t.me/techgitt قناتنا على التلجرام " tvg-logo="https://j.top4top.io/p_2805lxgyw1.jpg" group-title="FR | FRANCE GENERAL",https://t.me/techgitt قناتنا على التلجرام 
+https://d.top4top.io/m_2805isaps1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 2 SD" tvg-logo="" group-title="SSC SPORTS",SSC Extra 2 SD
+http://nvpro.tv:80/808080/909090/94884
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 3 SD" tvg-logo="" group-title="SSC SPORTS",SSC Extra 3 SD
+http://nvpro.tv:80/808080/909090/94883
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 HQ" tvg-logo="" group-title="SSC SPORTS",SSC 1 HQ
+http://nvpro.tv:80/808080/909090/94906
+#EXTINF:-1 tvg-id="" tvg-name="SSC 2 HQ" tvg-logo="" group-title="SSC SPORTS",SSC 2 HQ
+http://nvpro.tv:80/808080/909090/94905
+#EXTINF:-1 tvg-id="" tvg-name="SSC 3 HQ" tvg-logo="" group-title="SSC SPORTS",SSC 3 HQ
+http://nvpro.tv:80/808080/909090/94904
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4 HQ" tvg-logo="" group-title="SSC SPORTS",SSC 4 HQ
+http://nvpro.tv:80/808080/909090/94903
+#EXTINF:-1 tvg-id="" tvg-name="SSC 5 HQ" tvg-logo="" group-title="SSC SPORTS",SSC 5 HQ
+http://nvpro.tv:80/808080/909090/94902
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 1 HQ" tvg-logo="" group-title="SSC SPORTS",SSC Extra 1 HQ
+http://nvpro.tv:80/808080/909090/94901
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 2 HQ" tvg-logo="" group-title="SSC SPORTS",SSC Extra 2 HQ
+http://nvpro.tv:80/808080/909090/94900
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 3 HQ" tvg-logo="" group-title="SSC SPORTS",SSC Extra 3 HQ
+http://nvpro.tv:80/808080/909090/94899
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 HD" tvg-logo="" group-title="SSC SPORTS",SSC 1 HD
+http://nvpro.tv:80/808080/909090/94874
+#EXTINF:-1 tvg-id="" tvg-name="SSC 2 HD" tvg-logo="" group-title="SSC SPORTS",SSC 2 HD
+http://nvpro.tv:80/808080/909090/94873
+#EXTINF:-1 tvg-id="" tvg-name="SSC 3 HD" tvg-logo="" group-title="SSC SPORTS",SSC 3 HD
+http://nvpro.tv:80/808080/909090/94872
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4 HD" tvg-logo="" group-title="SSC SPORTS",SSC 4 HD
+http://nvpro.tv:80/808080/909090/94871
+#EXTINF:-1 tvg-id="" tvg-name="SSC 5 HD" tvg-logo="" group-title="SSC SPORTS",SSC 5 HD
+http://nvpro.tv:80/808080/909090/94870
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 1 HD" tvg-logo="" group-title="SSC SPORTS",SSC Extra 1 HD
+http://nvpro.tv:80/808080/909090/94869
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 2 HD" tvg-logo="" group-title="SSC SPORTS",SSC Extra 2 HD
+http://nvpro.tv:80/808080/909090/94868
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 3 HD" tvg-logo="" group-title="SSC SPORTS",SSC Extra 3 HD
+http://nvpro.tv:80/808080/909090/94867
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 H265 720" tvg-logo="" group-title="SSC SPORTS",SSC 1 H265 720
+http://nvpro.tv:80/808080/909090/94914
+#EXTINF:-1 tvg-id="" tvg-name="SSC 2 H265 720" tvg-logo="" group-title="SSC SPORTS",SSC 2 H265 720
+http://nvpro.tv:80/808080/909090/94913
+#EXTINF:-1 tvg-id="" tvg-name="SSC 3 H265 720" tvg-logo="" group-title="SSC SPORTS",SSC 3 H265 720
+http://nvpro.tv:80/808080/909090/94912
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4 H265 720" tvg-logo="" group-title="SSC SPORTS",SSC 4 H265 720
+http://nvpro.tv:80/808080/909090/94911
+#EXTINF:-1 tvg-id="" tvg-name="SSC 5 H265 720" tvg-logo="" group-title="SSC SPORTS",SSC 5 H265 720
+http://nvpro.tv:80/808080/909090/94910
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 1 H265 720" tvg-logo="" group-title="SSC SPORTS",SSC Extra 1 H265 720
+http://nvpro.tv:80/808080/909090/94909
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 2 H265 720" tvg-logo="" group-title="SSC SPORTS",SSC Extra 2 H265 720
+http://nvpro.tv:80/808080/909090/94908
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 3 H265 720" tvg-logo="" group-title="SSC SPORTS",SSC Extra 3 H265 720
+http://nvpro.tv:80/808080/909090/94907
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 FHD" tvg-logo="" group-title="SSC SPORTS",SSC 1 FHD
+http://nvpro.tv:80/808080/909090/94898
+#EXTINF:-1 tvg-id="" tvg-name="SSC 2 FHD" tvg-logo="" group-title="SSC SPORTS",SSC 2 FHD
+http://nvpro.tv:80/808080/909090/94897
+#EXTINF:-1 tvg-id="" tvg-name="SSC 3 FHD" tvg-logo="" group-title="SSC SPORTS",SSC 3 FHD
+http://nvpro.tv:80/808080/909090/94896
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4 FHD" tvg-logo="" group-title="SSC SPORTS",SSC 4 FHD
+http://nvpro.tv:80/808080/909090/94895
+#EXTINF:-1 tvg-id="" tvg-name="SSC 5 FHD" tvg-logo="" group-title="SSC SPORTS",SSC 5 FHD
+http://nvpro.tv:80/808080/909090/94894
+#EXTINF:0 CUID="141" tvg-name="https://t.me/techgitt قناتنا على التلجرام " tvg-logo="https://j.top4top.io/p_2805lxgyw1.jpg" group-title="FR | FRANCE GENERAL",https://t.me/techgitt قناتنا على التلجرام 
+https://d.top4top.io/m_2805isaps1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 1 FHD" tvg-logo="" group-title="SSC SPORTS",SSC Extra 1 FHD
+http://nvpro.tv:80/808080/909090/94893
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 2 FHD" tvg-logo="" group-title="SSC SPORTS",SSC Extra 2 FHD
+http://nvpro.tv:80/808080/909090/94892
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 3 FHD" tvg-logo="" group-title="SSC SPORTS",SSC Extra 3 FHD
+http://nvpro.tv:80/808080/909090/94891
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 4K H265" tvg-logo="" group-title="SSC SPORTS",SSC 1 4K H265
+http://nvpro.tv:80/808080/909090/94882
+#EXTINF:-1 tvg-id="" tvg-name="SSC 2 4K H265" tvg-logo="" group-title="SSC SPORTS",SSC 2 4K H265
+http://nvpro.tv:80/808080/909090/94881
+#EXTINF:-1 tvg-id="" tvg-name="SSC 3 4K H265" tvg-logo="" group-title="SSC SPORTS",SSC 3 4K H265
+http://nvpro.tv:80/808080/909090/94880
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4 4K H265" tvg-logo="" group-title="SSC SPORTS",SSC 4 4K H265
+http://nvpro.tv:80/808080/909090/94879
+#EXTINF:-1 tvg-id="" tvg-name="SSC 5 4K H265" tvg-logo="" group-title="SSC SPORTS",SSC 5 4K H265
+http://nvpro.tv:80/808080/909090/94878
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 1 4K H265" tvg-logo="" group-title="SSC SPORTS",SSC Extra 1 4K H265
+http://nvpro.tv:80/808080/909090/94877
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 2 4K H265" tvg-logo="" group-title="SSC SPORTS",SSC Extra 2 4K H265
+http://nvpro.tv:80/808080/909090/94876
+#EXTINF:-1 tvg-id="" tvg-name="SSC Extra 3 4K H265" tvg-logo="" group-title="SSC SPORTS",SSC Extra 3 4K H265
+http://nvpro.tv:80/808080/909090/94875
+
+
+
+#EXTINF:-1,•●★★---  قنوات الرياضية العربية ---★★●•
+https://d.top4top.io/m_2805isaps1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AD Sports 1 Asia SD" tvg-logo="" group-title="⚽موقع بوابة التكنولوجيا⚽️ XTRA-AFC",AD Sports 1 Asia SD
+http://nvpro.tv:80/808080/909090/84229
+#EXTINF:-1 tvg-id="" tvg-name="AD Sports 2 Asia SD" tvg-logo="" group-title="⚽موقع بوابة التكنولوجيا⚽️ XTRA-AFC",AD Sports 2 Asia SD
+http://nvpro.tv:80/808080/909090/84228
+#EXTINF:-1 tvg-id="" tvg-name="AD Sports 1 Asia HD" tvg-logo="" group-title="⚽موقع بوابة التكنولوجيا⚽️ XTRA-AFC",AD Sports 1 Asia HD
+http://nvpro.tv:80/808080/909090/84227
+#EXTINF:-1 tvg-id="" tvg-name="AD Sports 2 Asia HD" tvg-logo="" group-title="⚽موقع بوابة التكنولوجيا⚽️ XTRA-AFC",AD Sports 2 Asia HD
+http://nvpro.tv:80/808080/909090/84226
+#EXTINF:-1 tvg-id="" tvg-name="AD Sports 1 Asia 4K" tvg-logo="" group-title="⚽موقع بوابة التكنولوجيا⚽️ XTRA-AFC",AD Sports 1 Asia 4K
+http://nvpro.tv:80/808080/909090/84225
+#EXTINF:-1 tvg-id="" tvg-name="AD Sports 2 Asia 4K" tvg-logo="" group-title="⚽موقع بوابة التكنولوجيا⚽️ XTRA-AFC",AD Sports 2 Asia 4K
+http://nvpro.tv:80/808080/909090/84224
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT 1 Premium Low" tvg-logo="" group-title="AD SPORTS PREMIUM",AD SPORT 1 Premium Low
+http://nvpro.tv:80/808080/909090/74078
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT 2 Premium Low" tvg-logo="" group-title="AD SPORTS PREMIUM",AD SPORT 2 Premium Low
+http://nvpro.tv:80/808080/909090/74079
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT 1 Premium SD" tvg-logo="" group-title="AD SPORTS PREMIUM",AD SPORT 1 Premium SD
+http://nvpro.tv:80/808080/909090/74083
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT 2 Premium SD" tvg-logo="" group-title="AD SPORTS PREMIUM",AD SPORT 2 Premium SD
+http://nvpro.tv:80/808080/909090/74084
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT 1 Premium HD" tvg-logo="" group-title="AD SPORTS PREMIUM",AD SPORT 1 Premium HD
+http://nvpro.tv:80/808080/909090/74076
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT 2 Premium HD" tvg-logo="" group-title="AD SPORTS PREMIUM",AD SPORT 2 Premium HD
+http://nvpro.tv:80/808080/909090/74077
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT 1 Premium FHD" tvg-logo="" group-title="AD SPORTS PREMIUM",AD SPORT 1 Premium FHD
+http://nvpro.tv:80/808080/909090/74081
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT 2 Premium FHD" tvg-logo="" group-title="AD SPORTS PREMIUM",AD SPORT 2 Premium FHD
+http://nvpro.tv:80/808080/909090/74082
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️ SPORTS" tvg-logo="" group-title="ARABIC SPORTS",⚽موقع بوابة التكنولوجيا⚽️ SPORTS
+http://nvpro.tv:80/808080/909090/61069
+#EXTINF:-1 tvg-id="" tvg-name="⚽موقع بوابة التكنولوجيا⚽️ SPORTS NEWS" tvg-logo="" group-title="ARABIC SPORTS",⚽موقع بوابة التكنولوجيا⚽️ SPORTS NEWS
+http://nvpro.tv:80/808080/909090/61068
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT SD" tvg-logo="" group-title="ARABIC SPORTS",ON TIME SPORT SD
+http://nvpro.tv:80/808080/909090/32892
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT HD" tvg-logo="" group-title="ARABIC SPORTS",ON TIME SPORT HD
+http://nvpro.tv:80/808080/909090/32891
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT FHD H265" tvg-logo="" group-title="ARABIC SPORTS",ON TIME SPORT FHD H265
+http://nvpro.tv:80/808080/909090/32890
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT 2 SD" tvg-logo="" group-title="ARABIC SPORTS",ON TIME SPORT 2 SD
+http://nvpro.tv:80/808080/909090/32889
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT 2 HD" tvg-logo="" group-title="ARABIC SPORTS",ON TIME SPORT 2 HD
+http://nvpro.tv:80/808080/909090/32888
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT 2 FHD H265" tvg-logo="" group-title="ARABIC SPORTS",ON TIME SPORT 2 FHD H265
+http://nvpro.tv:80/808080/909090/32887
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT 3 SD" tvg-logo="" group-title="ARABIC SPORTS",ON TIME SPORT 3 SD
+http://nvpro.tv:80/808080/909090/32886
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT 3 HD" tvg-logo="" group-title="ARABIC SPORTS",ON TIME SPORT 3 HD
+http://nvpro.tv:80/808080/909090/32885
+#EXTINF:-1 tvg-id="" tvg-name="AL AHLY SD" tvg-logo="" group-title="ARABIC SPORTS",AL AHLY SD
+http://nvpro.tv:80/808080/909090/32884
+#EXTINF:-1 tvg-id="" tvg-name="AL AHLY HD" tvg-logo="" group-title="ARABIC SPORTS",AL AHLY HD
+http://nvpro.tv:80/808080/909090/32883
+#EXTINF:-1 tvg-id="" tvg-name="AL AHLY FHD H265" tvg-logo="" group-title="ARABIC SPORTS",AL AHLY FHD H265
+http://nvpro.tv:80/808080/909090/32882
+#EXTINF:-1 tvg-id="" tvg-name="AL ZAMALEK TV" tvg-logo="" group-title="ARABIC SPORTS",AL ZAMALEK TV
+http://nvpro.tv:80/808080/909090/32881
+#EXTINF:-1 tvg-id="" tvg-name="NILE SPORT" tvg-logo="" group-title="ARABIC SPORTS",NILE SPORT
+http://nvpro.tv:80/808080/909090/32880
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport 1 HD" tvg-logo="" group-title="ARABIC SPORTS",AD Sport 1 HD
+http://nvpro.tv:80/808080/909090/32879
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport 2 HD" tvg-logo="" group-title="ARABIC SPORTS",AD Sport 2 HD
+http://nvpro.tv:80/808080/909090/32878
+#EXTINF:-1 tvg-id="" tvg-name="Ksa Sport 1 HD" tvg-logo="" group-title="ARABIC SPORTS",Ksa Sport 1 HD
+http://nvpro.tv:80/808080/909090/32877
+#EXTINF:-1 tvg-id="" tvg-name="Ksa Sport 2 HD" tvg-logo="" group-title="ARABIC SPORTS",Ksa Sport 2 HD
+http://nvpro.tv:80/808080/909090/32876
+#EXTINF:-1 tvg-id="" tvg-name="Ksa Sport 3 HD" tvg-logo="" group-title="ARABIC SPORTS",Ksa Sport 3 HD
+http://nvpro.tv:80/808080/909090/32875
+#EXTINF:-1 tvg-id="" tvg-name="Ksa Sport 4 HD" tvg-logo="" group-title="ARABIC SPORTS",Ksa Sport 4 HD
+http://nvpro.tv:80/808080/909090/32874
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass One HD" tvg-logo="" group-title="ARABIC SPORTS",Al Kass One HD
+http://nvpro.tv:80/808080/909090/32871
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Two HD" tvg-logo="" group-title="ARABIC SPORTS",Al Kass Two HD
+http://nvpro.tv:80/808080/909090/32873
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Four HD" tvg-logo="" group-title="ARABIC SPORTS",Al Kass Four HD
+http://nvpro.tv:80/808080/909090/32872

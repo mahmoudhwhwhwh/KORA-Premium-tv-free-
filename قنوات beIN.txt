@@ -1,0 +1,34 @@
+EXTINF:-1,Bein Sport 01
+https://livestream.almanasa.tv:8140/bein/ch1/ch1_720.m3u8
+#EXTINF:-1,Bein Sport 02
+https://livestream.almanasa.tv:8140/bein/ch2/ch2_720.m3u8
+#EXTINF:-1,Bein Sport 03
+https://livestream.almanasa.tv:8140/bein/ch3/ch3_720.m3u8
+#EXTINF:-1,Bein Sport 04
+https://livestream.almanasa.tv:8140/bein/ch4/ch4_720.m3u8
+#EXTINF:-1,Bein Sport 05
+https://livestream.almanasa.tv:8140/bein/ch5/ch5_720.m3u8
+#EXTINF:-1,Bein Sport 06
+https://livestream.almanasa.tv:8140/bein/ch6/ch6_720.m3u8
+#EXTINF:-1,Bein Sport 07
+https://livestream.almanasa.tv:8140/bein/ch7/ch7_720.m3u8
+#EXTINF:-1,Bein Sport 08
+https://livestream.almanasa.tv:8140/bein/ch8/ch8_720.m3u8
+#EXTINF:-1,Bein Sport 09
+https://livestream.almanasa.tv:8140/bein/ch9/ch9_720.m3u8
+#EXTINF:-1,Bein sport Xtra 01
+https://livestream.almanasa.tv:8140/bein/ch10/ch10_720.m3u8
+#EXTINF:-1,Bein sport Xtra 02
+https://livestream.almanasa.tv:8140/bein/ch11/ch11_720.m3u8
+#EXTINF:-1,Bein sport NBA
+https://livestream.almanasa.tv:8140/bein/ch12/ch12_720.m3u8
+#EXTINF:-1,Bein Sport EN 01
+https://livestream.almanasa.tv:8140/bein/ch13/ch13_720.m3u8
+#EXTINF:-1,Bein Sport EN 02
+https://livestream.almanasa.tv:8140/bein/ch14/ch14_720.m3u8
+#EXTINF:-1,Bein Sport EN 03
+https://livestream.almanasa.tv:8140/bein/ch15/ch15_720.m3u8
+#EXTINF:-1,Bein Sport 
+https://livestream.almanasa.tv:8140/bein/ch16/ch16_720.m3u8
+#EXTINF:-1,Bein Sport NEWS 
+https://livestream.almanasa.tv:8140/bein/ch17/ch17_720.m3u8
